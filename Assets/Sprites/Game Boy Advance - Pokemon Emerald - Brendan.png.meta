@@ -1,0 +1,5193 @@
+fileFormatVersion: 2
+guid: 4006003918a1572439c18321fb938f86
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6284970083416202611
+    second: Game Boy Advance - Pokemon Emerald - Brendan_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0261a565853c0444a215244f6cb2050
+      internalID: 517162140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 207
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324266c0c2f739343b4f0b67c7152595
+      internalID: 1230526928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 207
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742e0189b243a7d419ca8159414cad19
+      internalID: 1639623417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 207
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4442e303956b4374393e4443a93c2d72
+      internalID: 1912345864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 207
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d996dbaea2ded7149960986ffb3b5eac
+      internalID: 1363948009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 207
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652f1c2e670b6b743b220baaab82421a
+      internalID: -1527402427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 207
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637467d37f3e0324195f0bfcea3aabb7
+      internalID: -284949766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 207
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85e84d402ff7774a9250f0eef9c7d18
+      internalID: 147723227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 207
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e371bad864e4243b68d1f471d57f10
+      internalID: -2039012830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 207
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d606d72090bd56468019c42c98e3724
+      internalID: -1747184513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 207
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251bbd395957dc34780be90f283f2143
+      internalID: -1721035866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 207
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c831b401eff22f4988b5a315bf22f35
+      internalID: -804796540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 207
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7a60085ffa2f742bc39bf928a8ca7d
+      internalID: -575864558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 207
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21abd18cc4ed6534d99a17d2b5278c40
+      internalID: -431708276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 207
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaa69493cb0e674e877cbf655b3b79f
+      internalID: 1874182155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 207
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dab8fbbe7312648a2b91df669f9a7e
+      internalID: 755311413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 207
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2daa1200995112488410fab1a9d1187
+      internalID: 73668210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 207
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d03198ef5bb4ad4fb2091329c86f65f
+      internalID: 194264771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_18
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 207
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3403f31b4f48e7a43a7c42ee59d2c3f7
+      internalID: 125407825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_19
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 207
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22b3b6ae4cfd37408aa5e156db311d5
+      internalID: 1226144020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 207
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6aed45febb6722489d1491ad0794912
+      internalID: -976686505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_21
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 207
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63d5ff71cb98a642bb242e863d29cd7
+      internalID: 733826375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3852ebc2bd6f0d4c94372fe1dc6cc32
+      internalID: -811632861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 186
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2371c8aa372072c4fb96e31a7eaf38d9
+      internalID: -969155275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_24
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 186
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01057b339c55fcd4c8b4b7afd6ce36f7
+      internalID: -761104040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_25
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 186
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ba051312d29864f93c289ea9f1972a
+      internalID: 1322135224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 186
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017dc90c193353f4faa43505ffcaedf1
+      internalID: 1389080837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_27
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 186
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38d3e0c6f07af94fa19a54d2b372464
+      internalID: -1676108882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_28
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 186
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5884ba034e9161459aca5eb761ffa3e
+      internalID: -570264871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_29
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 186
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704294d46bb789545bda2f566ccc8b79
+      internalID: 1080250954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 186
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ca4cbebd6dfff4c9ba91712e208d4c
+      internalID: 1293727723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_31
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 186
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4f3e17c12a81d429f3360f903db6e7
+      internalID: 494504044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_32
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 186
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1812e4d40ac6fa14d8bddd210eb7f4ff
+      internalID: 655051284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_33
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 186
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ab467123a617b4988687241d523bae
+      internalID: 2001882705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_34
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 186
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1d2a07f65174648b05c98700d65548
+      internalID: -2090186777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_35
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 186
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f799be93a8ea3894bad2f5209fda1450
+      internalID: -1873815217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_36
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 186
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3558885a0a4b24baf64960b63f615c
+      internalID: -188405044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_37
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 186
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6efc475644e244d8656d53dd73d86f
+      internalID: 695743869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_38
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 186
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e46c90166cc1a4896a09d88e58f968
+      internalID: -1102303779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_39
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 186
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a29e1ab658add24a9b19f92d8e2289c
+      internalID: 1575885652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 186
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60ed1c4fca924947bd4a3e0c4e69c72
+      internalID: -1778714905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_41
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 186
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3d102ad1612d847b5dfff2de0ff974
+      internalID: -1750877954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 186
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936999b98034efa4882817dde4d17b7a
+      internalID: -1110713021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_43
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 186
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495db1fb84f34d7448207175a7a5ca86
+      internalID: 1264992130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b32a81ce5445ff46b1cfd7b8c7ee6f2
+      internalID: -81248913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_45
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 165
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7376ecb9f7123cd4c91a56af9d9df992
+      internalID: 295275265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_46
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 165
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4929d8293798d9d449cecae4f486a346
+      internalID: 738855900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_47
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 165
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13be7c12ae94ee94294336f52946132a
+      internalID: -467358985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_48
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 165
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63fb0bb4cefa0e4e889602f82f49efc
+      internalID: -20292455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_49
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 165
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccaf02bb7cf288d47bb4d549c4f58b7c
+      internalID: -1127138684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_50
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 165
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bf6673c6e353f48a0979588f05ebc3
+      internalID: 476831234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_51
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 165
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c409e34c842982344b85df9d957c9650
+      internalID: 594933033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_52
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 165
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524d31715b277b643aae870bd5cd6dcd
+      internalID: -1614393114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_53
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 165
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e6247bd8982374f968943fd15f6ee8
+      internalID: -1117121273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_54
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 165
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffdd89ac1956be43a7c5cf44b2a0119
+      internalID: 700836026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_55
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 165
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772e01118b9c2bc46a22f75b23ccdc5b
+      internalID: 1658126927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_56
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 165
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a735231c1ea9349abf0ecc1e1d4646
+      internalID: 1986130693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_57
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 165
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec04b9b21a80e94282007622ffdee6b
+      internalID: -1566195806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_58
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 165
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d60bec493070784b89edb2e037fe588
+      internalID: 2022936700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_59
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 165
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7ebfaa9bb49394b89e93d9a6dbf984
+      internalID: -1771731428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_60
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 165
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27210f2778704f4989f4f8e0bc0d99f
+      internalID: 1814626713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_61
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 165
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4503a940d761ab4db9f0b0f542ae39e
+      internalID: 578842131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_62
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 165
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc879ef62e41a24b88a6e87f3a5fd38
+      internalID: -865883178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_63
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 165
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a8570bb4779e84ba99629ae84dcb45
+      internalID: 1430533410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_64
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 165
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0356de20a167eac4a9eced9184ab85a9
+      internalID: -1629942320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_65
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 165
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d4442055c1f704e9627d509d9c9402
+      internalID: 801456209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e350771824fa44eab1dfd1fc86acc3
+      internalID: -1738019172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_67
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 144
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f42d0e96d84dd41a8b8da037b73f49
+      internalID: 1930313259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_68
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 144
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c535180fb646e46ad8ba75123d82e8
+      internalID: -1602815531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_69
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 144
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41cbd6bb697b104e9175f8c45e40b6f
+      internalID: 1686852207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_70
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 144
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443765e14d526d9439c7722a33fefbe8
+      internalID: 567368100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_71
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 144
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a2f4365bbf44a4caf1862337207ccc
+      internalID: -820637169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_72
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 144
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2054d707a0157e4408b85ead5f618377
+      internalID: 197353701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_73
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 144
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9c6184b8b70ca4bbb1f586debedd86
+      internalID: 291770246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_74
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 144
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2c43332e77e444e8dc77f672f58c98
+      internalID: -910464474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_75
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 144
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2901b2f13764c948b77ed27e90b7c35
+      internalID: -315604936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_76
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 144
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45c5224a5f6580479f25d1b25439ff7
+      internalID: 389915602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_77
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 144
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5ae3d25eacb6b4981aa71ee3663ceb
+      internalID: -262052214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_78
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 144
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10aed8eb0863416458f3e1f0d3c6def6
+      internalID: -253300607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_79
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 144
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030c3a5756735ea42bd9234053b990ed
+      internalID: 1497469298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_80
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 144
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ec2feae541bba4d830c09c3f51382a
+      internalID: 861937913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_81
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 144
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d3033cda9aa33429f4dc1b7073f5a9
+      internalID: 1398769840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_82
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae24b52377149094ca580f27e4560521
+      internalID: 1700203351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_83
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 144
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11681ecce12dc3441a020dbd33d7a2d4
+      internalID: 1226075325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_84
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 144
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a0a7a6265599b4a9adebb9960387c9
+      internalID: -1290257813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_85
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 144
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05b9fed1cd52af4ebd7c240fdbcb8b6
+      internalID: 659196804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_86
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 144
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54a6bcf9f132a6468420defbd1521ec
+      internalID: -511275286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_87
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 144
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e0549b9a2342c4aad013a153b53e47
+      internalID: -916890781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c512ee747863bba409fd1db83b75a179
+      internalID: 844648960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_89
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 123
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c285904ac9db867468e128952cead548
+      internalID: -1760309588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_90
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 123
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120629c067614cc47a4de4b7b9c91844
+      internalID: 2049274819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_91
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 123
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc261702e513834cbbbb5e4e80ad56d
+      internalID: -15624971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_92
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 123
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f78f31bb2b468a4785e6c8ab855af32
+      internalID: 678022491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_93
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 123
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa63907c6bc851448ab92b407ff39b17
+      internalID: 356753874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_94
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 123
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49162316654f95d449269859f9d5bd50
+      internalID: -1528815431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_95
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 123
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0339e5ac6e7df0e4cb34cab52193f71a
+      internalID: -1256158040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_96
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 123
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff983b03230fc7a4eaa48dbcba366c71
+      internalID: -1936999380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_97
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 123
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794f48cae80ed544fa58ae07dbf0da54
+      internalID: 2091616075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_98
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 123
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb21dba61840604f93fe8483f130ce6
+      internalID: -634392624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_99
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 123
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a222055c265b44d4494a2cf65db10a53
+      internalID: -2094482927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_100
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 123
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fdbca86c9c4aa4e9b47f77034aaeee
+      internalID: -1591625917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_101
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 123
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d564ba9b98e170f45a29cc85d724df63
+      internalID: -1166319700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_102
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 123
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fea494dfe74fc4bad40823780f5a63
+      internalID: -73208703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_103
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 123
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf08ee51da030824a8287ef34dcec44d
+      internalID: -947596108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_104
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 123
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0750bcc4bc2aa47a930a4789a83d36
+      internalID: 975327054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_105
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 123
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb452a0c37422d43b7cdf8658f60c4f
+      internalID: -1722899406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_106
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 123
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a66f9c2ac9bccd49804678bfef646f7
+      internalID: -1163852756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_107
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 123
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2580c4e394fba649bb8cc69f4ff7bff
+      internalID: 841578464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_108
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 123
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fd88d27b538eb4889749e8be8ab23e
+      internalID: -1702437685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_109
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 123
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd8e9962bee3e84fb1d963736cb56e7
+      internalID: 520678234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd86ad557d353fc4fa6390871958ce83
+      internalID: 1744616692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_111
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 102
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31566b203caa7514aabd55393bb4cb61
+      internalID: -39135355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_112
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 102
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43590ddd0bc602849bd9da429830d833
+      internalID: -2047314544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_113
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 102
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39eae828c8262c74db62ed541773e25f
+      internalID: 1319433579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_114
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 102
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128bdb2cf79764d4aa978810f115fa06
+      internalID: -1243879521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_115
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 102
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2c62dcb2d175941968bbb07c9076b7
+      internalID: -887466161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_116
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 102
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbae236f9be50e4cb226abde56cc448
+      internalID: -153219556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_117
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 102
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4132f1c9781f5154f9656e51b9b2a5b4
+      internalID: -252504381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_118
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 102
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7eea6996e893334b82e6b0260d9d912
+      internalID: -1952352635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_119
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 102
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e703891fbdf77c4696590f214d4c939
+      internalID: 1676818410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_120
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 102
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e0409ddfc8ba14d99e327ed1899eb5
+      internalID: -408472406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_121
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 102
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87a69f6cd5ba5a41a9f5b040259eb94
+      internalID: 692221383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_122
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 102
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cff78c42f6596349a58f3897fbf17ea
+      internalID: 515030269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_123
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 102
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dc09c05f688a6468b15da9fe881d81
+      internalID: -1953846893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_124
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 102
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff852305b76201479a73fb4055a5267
+      internalID: -210751960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_125
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 102
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c821f95eea338564b9ddc9e4b4615b32
+      internalID: -1058065514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_126
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 102
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd25424c1c219564aaef34823238fe4d
+      internalID: 1926203236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_127
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 102
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6e940bd2863aa4e9959e843cfb7c75
+      internalID: 990800992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_128
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 102
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12afb94ef4e56bd46aaaea837cabc741
+      internalID: 972628075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_129
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 102
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0faa11021927d47b51dda4e96e5050
+      internalID: 1776887953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_130
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 102
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9e81d17e15826428640a775e4552fd
+      internalID: -1716520081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_131
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 102
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e21e1c60da21ad40b1b0144069e2ab8
+      internalID: -43923467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6029d80c742bcc44d87e31b3f396ebeb
+      internalID: -1756841433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_133
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 81
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8442a911ce626c1409e0d79908a6aeaf
+      internalID: 1649540884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_134
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 81
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50e0b502a46d074b9262e5bda61d3f0
+      internalID: 850622263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_135
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 81
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ceff7cde40088418381ceed2aa09fd
+      internalID: -1824166063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_136
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 81
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef8954496983b746b3a8677bbe860c0
+      internalID: -425612480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_137
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 81
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1054a1e932caf4ea230a6806985281
+      internalID: -1017715368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_138
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 81
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f50cfbeafe80d42ba5105b55ad9952
+      internalID: -558240107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_139
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 81
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6b573437056724e821fa7c7bff1982
+      internalID: -1240432320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_140
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 81
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e5f3a38294a2e4eb78d8e3dab565e6
+      internalID: -1005899938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_141
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 81
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd86fa4b62c015849ac869d99685d6d4
+      internalID: 1945270982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_142
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 81
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc369d257272444096d906c578d2f13
+      internalID: 1523834262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_143
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 81
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6573c717c44784946871fc1418c24df3
+      internalID: -898460675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_144
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 81
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fcaacddd05aaf4fbcd57fddd744d23
+      internalID: 1111227812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_145
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 81
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ea908584f9ff74a982cc89243ea89e
+      internalID: -1918000438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_146
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 81
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99b7d2e7e8904c4fb645bf67002d33d
+      internalID: 366841645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_147
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 81
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659cf66ea5023eb4299c4d0144a02435
+      internalID: -1889020886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_148
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 81
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d957516661ac777449f5ab796d224a0b
+      internalID: -1242565091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_149
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 81
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9b81006e1ee494083da71e53689254
+      internalID: 2079134400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_150
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 81
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ed89f84f215d04999a8a75b4e87874
+      internalID: -770413193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_151
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 81
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8673aa3d35aac6d479bdc353bc0cea56
+      internalID: 740043619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_152
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 81
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b24426b9c9e02248a2c730e4f5f3ec7
+      internalID: -888333517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_153
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 81
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fdfe9675bcc934fa2c92ba062cd274
+      internalID: -949460451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5892d183d50cf84f91af787ec784697
+      internalID: 1155903197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_155
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 60
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e540038934ea4e46961d4aec3d9fd3f
+      internalID: 1926037651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_156
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b557c3583e4654fbf05194f81438ad
+      internalID: 1665734395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_157
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 60
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5475634ab66a8034ea2eea1850b6899d
+      internalID: 959680857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_158
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bc0553ffe71284bbfd3a6fd65e7056
+      internalID: 706841406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_159
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 60
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceed3e04ff0b7984fad7f1366748752f
+      internalID: 390884894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_160
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b97e8cd2a511844bab0e35719839c5
+      internalID: 851055571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_161
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 60
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431acc7d2d9322441887641da4ee6cdd
+      internalID: 1079607481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_162
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706f144e26fe8e94b9ac3f86015a2b88
+      internalID: 2030149494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_163
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 60
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a71154bb5f6085418616878964f3954
+      internalID: -138606513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_164
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d422ea9e226773846bca5cedde85dd3e
+      internalID: 834113992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_165
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 60
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03b048477daf324d9c4dfe919998a6e
+      internalID: -1020670220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_166
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17396168b56b7a44eab35433b881c3eb
+      internalID: -242512117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_167
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 60
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3903a31fea12f284691550da412c04a3
+      internalID: -179411229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_168
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c13bf0066f7954da643f9e915caa9f
+      internalID: -818295452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_169
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 60
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e317868122ced8d488b75042101dfa90
+      internalID: 189016717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_170
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 60
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5183d64b1c70e1b419f90a3f748d8dff
+      internalID: -476143542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_171
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 60
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b3d9f2646874b42b27638901ac9087
+      internalID: 1185411452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_172
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 60
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86fb759336248249915aea22ca9af85
+      internalID: -562284358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_173
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 60
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e3383883d563944a547cda01d66937
+      internalID: -1751965756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_174
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 60
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e28893f10aceb4c9286b81ed759b64
+      internalID: 1664280747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_175
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 60
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164f2a54ee2de7a40be1923e2bf7f7f5
+      internalID: 489467033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c16730a12f9eb4c945583f584db652
+      internalID: -1233946852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_177
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 39
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d304880dc453944a27b64560f94c1d
+      internalID: -2135518844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_178
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 39
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3f55af507f69f49a330c62a2dd8b31
+      internalID: 1682882370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_179
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 39
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966e8c2506f6fbc4d9085efe905ed97c
+      internalID: -185305547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_180
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 39
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6927da6adaf9554eade6f0e02d8a3ec
+      internalID: -1388454225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_181
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 39
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7c96342f472674ca03b0e4474662b6
+      internalID: 2046147636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_182
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 39
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28397d7220c737a418b2fcd533ac4ab0
+      internalID: -1884893610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_183
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 39
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913b1efbf01fb624ea6e05592e6407de
+      internalID: 1117127198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_184
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 39
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970d02bb55a15f7408706360696c3d0f
+      internalID: 125954150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_185
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 39
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0ed4fb8b1f65841bf054597290235a
+      internalID: -385002182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_186
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 39
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea3071d7aa4f9744812d46f9bb7a154
+      internalID: 91667511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_187
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 39
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d010a0993ecf86469806bdd3e47ffd7
+      internalID: 665625568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_188
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 39
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee19dd8c0fb02543810fa2781ebe4c4
+      internalID: 1805728705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_189
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 39
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec04cd283f6a6af42a6ad2aad497f455
+      internalID: 1551378506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_190
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 39
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018c10232dda3164fb1179c76d639c32
+      internalID: -453685705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_191
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 39
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1b96a48dac11e41a990a372ef69837
+      internalID: -151645816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_192
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 39
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ef24bba74c3914e957b41c24fef63a
+      internalID: -706005683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_193
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 39
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb3d4022af3e1543bdab6801c4f6386
+      internalID: 1813947466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_194
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 39
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3d95093d1e22140b9ab6ba37e02d6f
+      internalID: 1377422538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_195
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 39
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7555866d80ce2324cbd45b3ec35a5715
+      internalID: -270750013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_196
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 39
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80b3f242aea63543b807f87ebc9d350
+      internalID: 1944018165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_197
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 39
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5756f4b9b67b6fd4a8eb7888255493d6
+      internalID: 967784618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfba6502291ee4c4ca62ac5d399eeb11
+      internalID: -681555022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_199
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 18
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a936a410cf7ecc4fb05c1aecc22044c
+      internalID: -616713716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_200
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 18
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e980e0acececb0141ae4aa973f3bcc57
+      internalID: 1247406214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_201
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 18
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5daee0be426634f969694fc3f0aa4c
+      internalID: -396840709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_202
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 18
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec550dc5fb440764087a8866171d22d5
+      internalID: -1925992640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_203
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 18
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb380b989f1f414b9f2406953e08865
+      internalID: -295656949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_204
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 18
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebdb9ff850edff4c87bdb72fba22b46
+      internalID: -473493328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_205
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 18
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae14ae50928ace48881bf1edb3e6507
+      internalID: 341832174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_206
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 18
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a0e572d0559d84ab92ae10e210bbd5
+      internalID: 282785215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_207
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 18
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52677f2844a79445b259d371976f364
+      internalID: 1579238231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_208
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 18
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c2fb73c90a5aa44844eacf332a84d5
+      internalID: -1246802459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_209
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 18
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ab61c0f75e83e49ba7bd23d68ab1f2
+      internalID: -1788931432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_210
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 18
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ba489ee8eb56846853b918e4106ef1
+      internalID: -1658087928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_211
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 18
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa909448165587479fb2d49c60e235f
+      internalID: 1123300335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_212
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 18
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26193371d32d8384c81cae33c542defb
+      internalID: -1504932105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_213
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 18
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3f87c35fc916b40b59aab31db2bef0
+      internalID: 1526057788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_214
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 18
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d172725cfc73bd44bfb4ff264c4345d
+      internalID: 642054427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_215
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 18
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d538878a69f7f9345b0611495e678d73
+      internalID: -1020641221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_216
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 18
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62516ce582e86249825e92587efb764
+      internalID: 290175602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_217
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 18
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f991245e0787c46969ee8378c7f992
+      internalID: -1656938509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_218
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 18
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed87f2b825783546ac854010c2e33d7
+      internalID: -736344969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Brendan_219
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 18
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4751aa3fae3af8a409daa24c52649b36
+      internalID: 912905675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7ceb43fd3faf0e546a280acc8f198a92
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Game Boy Advance - Pokemon Emerald - Brendan_0: 517162140
+      Game Boy Advance - Pokemon Emerald - Brendan_1: 1230526928
+      Game Boy Advance - Pokemon Emerald - Brendan_10: -1721035866
+      Game Boy Advance - Pokemon Emerald - Brendan_100: -1591625917
+      Game Boy Advance - Pokemon Emerald - Brendan_101: -1166319700
+      Game Boy Advance - Pokemon Emerald - Brendan_102: -73208703
+      Game Boy Advance - Pokemon Emerald - Brendan_103: -947596108
+      Game Boy Advance - Pokemon Emerald - Brendan_104: 975327054
+      Game Boy Advance - Pokemon Emerald - Brendan_105: -1722899406
+      Game Boy Advance - Pokemon Emerald - Brendan_106: -1163852756
+      Game Boy Advance - Pokemon Emerald - Brendan_107: 841578464
+      Game Boy Advance - Pokemon Emerald - Brendan_108: -1702437685
+      Game Boy Advance - Pokemon Emerald - Brendan_109: 520678234
+      Game Boy Advance - Pokemon Emerald - Brendan_11: -804796540
+      Game Boy Advance - Pokemon Emerald - Brendan_110: 1744616692
+      Game Boy Advance - Pokemon Emerald - Brendan_111: -39135355
+      Game Boy Advance - Pokemon Emerald - Brendan_112: -2047314544
+      Game Boy Advance - Pokemon Emerald - Brendan_113: 1319433579
+      Game Boy Advance - Pokemon Emerald - Brendan_114: -1243879521
+      Game Boy Advance - Pokemon Emerald - Brendan_115: -887466161
+      Game Boy Advance - Pokemon Emerald - Brendan_116: -153219556
+      Game Boy Advance - Pokemon Emerald - Brendan_117: -252504381
+      Game Boy Advance - Pokemon Emerald - Brendan_118: -1952352635
+      Game Boy Advance - Pokemon Emerald - Brendan_119: 1676818410
+      Game Boy Advance - Pokemon Emerald - Brendan_12: -575864558
+      Game Boy Advance - Pokemon Emerald - Brendan_120: -408472406
+      Game Boy Advance - Pokemon Emerald - Brendan_121: 692221383
+      Game Boy Advance - Pokemon Emerald - Brendan_122: 515030269
+      Game Boy Advance - Pokemon Emerald - Brendan_123: -1953846893
+      Game Boy Advance - Pokemon Emerald - Brendan_124: -210751960
+      Game Boy Advance - Pokemon Emerald - Brendan_125: -1058065514
+      Game Boy Advance - Pokemon Emerald - Brendan_126: 1926203236
+      Game Boy Advance - Pokemon Emerald - Brendan_127: 990800992
+      Game Boy Advance - Pokemon Emerald - Brendan_128: 972628075
+      Game Boy Advance - Pokemon Emerald - Brendan_129: 1776887953
+      Game Boy Advance - Pokemon Emerald - Brendan_13: -431708276
+      Game Boy Advance - Pokemon Emerald - Brendan_130: -1716520081
+      Game Boy Advance - Pokemon Emerald - Brendan_131: -43923467
+      Game Boy Advance - Pokemon Emerald - Brendan_132: -1756841433
+      Game Boy Advance - Pokemon Emerald - Brendan_133: 1649540884
+      Game Boy Advance - Pokemon Emerald - Brendan_134: 850622263
+      Game Boy Advance - Pokemon Emerald - Brendan_135: -1824166063
+      Game Boy Advance - Pokemon Emerald - Brendan_136: -425612480
+      Game Boy Advance - Pokemon Emerald - Brendan_137: -1017715368
+      Game Boy Advance - Pokemon Emerald - Brendan_138: -558240107
+      Game Boy Advance - Pokemon Emerald - Brendan_139: -1240432320
+      Game Boy Advance - Pokemon Emerald - Brendan_14: 1874182155
+      Game Boy Advance - Pokemon Emerald - Brendan_140: -1005899938
+      Game Boy Advance - Pokemon Emerald - Brendan_141: 1945270982
+      Game Boy Advance - Pokemon Emerald - Brendan_142: 1523834262
+      Game Boy Advance - Pokemon Emerald - Brendan_143: -898460675
+      Game Boy Advance - Pokemon Emerald - Brendan_144: 1111227812
+      Game Boy Advance - Pokemon Emerald - Brendan_145: -1918000438
+      Game Boy Advance - Pokemon Emerald - Brendan_146: 366841645
+      Game Boy Advance - Pokemon Emerald - Brendan_147: -1889020886
+      Game Boy Advance - Pokemon Emerald - Brendan_148: -1242565091
+      Game Boy Advance - Pokemon Emerald - Brendan_149: 2079134400
+      Game Boy Advance - Pokemon Emerald - Brendan_15: 755311413
+      Game Boy Advance - Pokemon Emerald - Brendan_150: -770413193
+      Game Boy Advance - Pokemon Emerald - Brendan_151: 740043619
+      Game Boy Advance - Pokemon Emerald - Brendan_152: -888333517
+      Game Boy Advance - Pokemon Emerald - Brendan_153: -949460451
+      Game Boy Advance - Pokemon Emerald - Brendan_154: 1155903197
+      Game Boy Advance - Pokemon Emerald - Brendan_155: 1926037651
+      Game Boy Advance - Pokemon Emerald - Brendan_156: 1665734395
+      Game Boy Advance - Pokemon Emerald - Brendan_157: 959680857
+      Game Boy Advance - Pokemon Emerald - Brendan_158: 706841406
+      Game Boy Advance - Pokemon Emerald - Brendan_159: 390884894
+      Game Boy Advance - Pokemon Emerald - Brendan_16: 73668210
+      Game Boy Advance - Pokemon Emerald - Brendan_160: 851055571
+      Game Boy Advance - Pokemon Emerald - Brendan_161: 1079607481
+      Game Boy Advance - Pokemon Emerald - Brendan_162: 2030149494
+      Game Boy Advance - Pokemon Emerald - Brendan_163: -138606513
+      Game Boy Advance - Pokemon Emerald - Brendan_164: 834113992
+      Game Boy Advance - Pokemon Emerald - Brendan_165: -1020670220
+      Game Boy Advance - Pokemon Emerald - Brendan_166: -242512117
+      Game Boy Advance - Pokemon Emerald - Brendan_167: -179411229
+      Game Boy Advance - Pokemon Emerald - Brendan_168: -818295452
+      Game Boy Advance - Pokemon Emerald - Brendan_169: 189016717
+      Game Boy Advance - Pokemon Emerald - Brendan_17: 194264771
+      Game Boy Advance - Pokemon Emerald - Brendan_170: -476143542
+      Game Boy Advance - Pokemon Emerald - Brendan_171: 1185411452
+      Game Boy Advance - Pokemon Emerald - Brendan_172: -562284358
+      Game Boy Advance - Pokemon Emerald - Brendan_173: -1751965756
+      Game Boy Advance - Pokemon Emerald - Brendan_174: 1664280747
+      Game Boy Advance - Pokemon Emerald - Brendan_175: 489467033
+      Game Boy Advance - Pokemon Emerald - Brendan_176: -1233946852
+      Game Boy Advance - Pokemon Emerald - Brendan_177: -2135518844
+      Game Boy Advance - Pokemon Emerald - Brendan_178: 1682882370
+      Game Boy Advance - Pokemon Emerald - Brendan_179: -185305547
+      Game Boy Advance - Pokemon Emerald - Brendan_18: 125407825
+      Game Boy Advance - Pokemon Emerald - Brendan_180: -1388454225
+      Game Boy Advance - Pokemon Emerald - Brendan_181: 2046147636
+      Game Boy Advance - Pokemon Emerald - Brendan_182: -1884893610
+      Game Boy Advance - Pokemon Emerald - Brendan_183: 1117127198
+      Game Boy Advance - Pokemon Emerald - Brendan_184: 125954150
+      Game Boy Advance - Pokemon Emerald - Brendan_185: -385002182
+      Game Boy Advance - Pokemon Emerald - Brendan_186: 91667511
+      Game Boy Advance - Pokemon Emerald - Brendan_187: 665625568
+      Game Boy Advance - Pokemon Emerald - Brendan_188: 1805728705
+      Game Boy Advance - Pokemon Emerald - Brendan_189: 1551378506
+      Game Boy Advance - Pokemon Emerald - Brendan_19: 1226144020
+      Game Boy Advance - Pokemon Emerald - Brendan_190: -453685705
+      Game Boy Advance - Pokemon Emerald - Brendan_191: -151645816
+      Game Boy Advance - Pokemon Emerald - Brendan_192: -706005683
+      Game Boy Advance - Pokemon Emerald - Brendan_193: 1813947466
+      Game Boy Advance - Pokemon Emerald - Brendan_194: 1377422538
+      Game Boy Advance - Pokemon Emerald - Brendan_195: -270750013
+      Game Boy Advance - Pokemon Emerald - Brendan_196: 1944018165
+      Game Boy Advance - Pokemon Emerald - Brendan_197: 967784618
+      Game Boy Advance - Pokemon Emerald - Brendan_198: -681555022
+      Game Boy Advance - Pokemon Emerald - Brendan_199: -616713716
+      Game Boy Advance - Pokemon Emerald - Brendan_2: 1639623417
+      Game Boy Advance - Pokemon Emerald - Brendan_20: -976686505
+      Game Boy Advance - Pokemon Emerald - Brendan_200: 1247406214
+      Game Boy Advance - Pokemon Emerald - Brendan_201: -396840709
+      Game Boy Advance - Pokemon Emerald - Brendan_202: -1925992640
+      Game Boy Advance - Pokemon Emerald - Brendan_203: -295656949
+      Game Boy Advance - Pokemon Emerald - Brendan_204: -473493328
+      Game Boy Advance - Pokemon Emerald - Brendan_205: 341832174
+      Game Boy Advance - Pokemon Emerald - Brendan_206: 282785215
+      Game Boy Advance - Pokemon Emerald - Brendan_207: 1579238231
+      Game Boy Advance - Pokemon Emerald - Brendan_208: -1246802459
+      Game Boy Advance - Pokemon Emerald - Brendan_209: -1788931432
+      Game Boy Advance - Pokemon Emerald - Brendan_21: 733826375
+      Game Boy Advance - Pokemon Emerald - Brendan_210: -1658087928
+      Game Boy Advance - Pokemon Emerald - Brendan_211: 1123300335
+      Game Boy Advance - Pokemon Emerald - Brendan_212: -1504932105
+      Game Boy Advance - Pokemon Emerald - Brendan_213: 1526057788
+      Game Boy Advance - Pokemon Emerald - Brendan_214: 642054427
+      Game Boy Advance - Pokemon Emerald - Brendan_215: -1020641221
+      Game Boy Advance - Pokemon Emerald - Brendan_216: 290175602
+      Game Boy Advance - Pokemon Emerald - Brendan_217: -1656938509
+      Game Boy Advance - Pokemon Emerald - Brendan_218: -736344969
+      Game Boy Advance - Pokemon Emerald - Brendan_219: 912905675
+      Game Boy Advance - Pokemon Emerald - Brendan_22: -811632861
+      Game Boy Advance - Pokemon Emerald - Brendan_23: -969155275
+      Game Boy Advance - Pokemon Emerald - Brendan_24: -761104040
+      Game Boy Advance - Pokemon Emerald - Brendan_25: 1322135224
+      Game Boy Advance - Pokemon Emerald - Brendan_26: 1389080837
+      Game Boy Advance - Pokemon Emerald - Brendan_27: -1676108882
+      Game Boy Advance - Pokemon Emerald - Brendan_28: -570264871
+      Game Boy Advance - Pokemon Emerald - Brendan_29: 1080250954
+      Game Boy Advance - Pokemon Emerald - Brendan_3: 1912345864
+      Game Boy Advance - Pokemon Emerald - Brendan_30: 1293727723
+      Game Boy Advance - Pokemon Emerald - Brendan_31: 494504044
+      Game Boy Advance - Pokemon Emerald - Brendan_32: 655051284
+      Game Boy Advance - Pokemon Emerald - Brendan_33: 2001882705
+      Game Boy Advance - Pokemon Emerald - Brendan_34: -2090186777
+      Game Boy Advance - Pokemon Emerald - Brendan_35: -1873815217
+      Game Boy Advance - Pokemon Emerald - Brendan_36: -188405044
+      Game Boy Advance - Pokemon Emerald - Brendan_37: 695743869
+      Game Boy Advance - Pokemon Emerald - Brendan_38: -1102303779
+      Game Boy Advance - Pokemon Emerald - Brendan_39: 1575885652
+      Game Boy Advance - Pokemon Emerald - Brendan_4: 1363948009
+      Game Boy Advance - Pokemon Emerald - Brendan_40: -1778714905
+      Game Boy Advance - Pokemon Emerald - Brendan_41: -1750877954
+      Game Boy Advance - Pokemon Emerald - Brendan_42: -1110713021
+      Game Boy Advance - Pokemon Emerald - Brendan_43: 1264992130
+      Game Boy Advance - Pokemon Emerald - Brendan_44: -81248913
+      Game Boy Advance - Pokemon Emerald - Brendan_45: 295275265
+      Game Boy Advance - Pokemon Emerald - Brendan_46: 738855900
+      Game Boy Advance - Pokemon Emerald - Brendan_47: -467358985
+      Game Boy Advance - Pokemon Emerald - Brendan_48: -20292455
+      Game Boy Advance - Pokemon Emerald - Brendan_49: -1127138684
+      Game Boy Advance - Pokemon Emerald - Brendan_5: -1527402427
+      Game Boy Advance - Pokemon Emerald - Brendan_50: 476831234
+      Game Boy Advance - Pokemon Emerald - Brendan_51: 594933033
+      Game Boy Advance - Pokemon Emerald - Brendan_52: -1614393114
+      Game Boy Advance - Pokemon Emerald - Brendan_53: -1117121273
+      Game Boy Advance - Pokemon Emerald - Brendan_54: 700836026
+      Game Boy Advance - Pokemon Emerald - Brendan_55: 1658126927
+      Game Boy Advance - Pokemon Emerald - Brendan_56: 1986130693
+      Game Boy Advance - Pokemon Emerald - Brendan_57: -1566195806
+      Game Boy Advance - Pokemon Emerald - Brendan_58: 2022936700
+      Game Boy Advance - Pokemon Emerald - Brendan_59: -1771731428
+      Game Boy Advance - Pokemon Emerald - Brendan_6: -284949766
+      Game Boy Advance - Pokemon Emerald - Brendan_60: 1814626713
+      Game Boy Advance - Pokemon Emerald - Brendan_61: 578842131
+      Game Boy Advance - Pokemon Emerald - Brendan_62: -865883178
+      Game Boy Advance - Pokemon Emerald - Brendan_63: 1430533410
+      Game Boy Advance - Pokemon Emerald - Brendan_64: -1629942320
+      Game Boy Advance - Pokemon Emerald - Brendan_65: 801456209
+      Game Boy Advance - Pokemon Emerald - Brendan_66: -1738019172
+      Game Boy Advance - Pokemon Emerald - Brendan_67: 1930313259
+      Game Boy Advance - Pokemon Emerald - Brendan_68: -1602815531
+      Game Boy Advance - Pokemon Emerald - Brendan_69: 1686852207
+      Game Boy Advance - Pokemon Emerald - Brendan_7: 147723227
+      Game Boy Advance - Pokemon Emerald - Brendan_70: 567368100
+      Game Boy Advance - Pokemon Emerald - Brendan_71: -820637169
+      Game Boy Advance - Pokemon Emerald - Brendan_72: 197353701
+      Game Boy Advance - Pokemon Emerald - Brendan_73: 291770246
+      Game Boy Advance - Pokemon Emerald - Brendan_74: -910464474
+      Game Boy Advance - Pokemon Emerald - Brendan_75: -315604936
+      Game Boy Advance - Pokemon Emerald - Brendan_76: 389915602
+      Game Boy Advance - Pokemon Emerald - Brendan_77: -262052214
+      Game Boy Advance - Pokemon Emerald - Brendan_78: -253300607
+      Game Boy Advance - Pokemon Emerald - Brendan_79: 1497469298
+      Game Boy Advance - Pokemon Emerald - Brendan_8: -2039012830
+      Game Boy Advance - Pokemon Emerald - Brendan_80: 861937913
+      Game Boy Advance - Pokemon Emerald - Brendan_81: 1398769840
+      Game Boy Advance - Pokemon Emerald - Brendan_82: 1700203351
+      Game Boy Advance - Pokemon Emerald - Brendan_83: 1226075325
+      Game Boy Advance - Pokemon Emerald - Brendan_84: -1290257813
+      Game Boy Advance - Pokemon Emerald - Brendan_85: 659196804
+      Game Boy Advance - Pokemon Emerald - Brendan_86: -511275286
+      Game Boy Advance - Pokemon Emerald - Brendan_87: -916890781
+      Game Boy Advance - Pokemon Emerald - Brendan_88: 844648960
+      Game Boy Advance - Pokemon Emerald - Brendan_89: -1760309588
+      Game Boy Advance - Pokemon Emerald - Brendan_9: -1747184513
+      Game Boy Advance - Pokemon Emerald - Brendan_90: 2049274819
+      Game Boy Advance - Pokemon Emerald - Brendan_91: -15624971
+      Game Boy Advance - Pokemon Emerald - Brendan_92: 678022491
+      Game Boy Advance - Pokemon Emerald - Brendan_93: 356753874
+      Game Boy Advance - Pokemon Emerald - Brendan_94: -1528815431
+      Game Boy Advance - Pokemon Emerald - Brendan_95: -1256158040
+      Game Boy Advance - Pokemon Emerald - Brendan_96: -1936999380
+      Game Boy Advance - Pokemon Emerald - Brendan_97: 2091616075
+      Game Boy Advance - Pokemon Emerald - Brendan_98: -634392624
+      Game Boy Advance - Pokemon Emerald - Brendan_99: -2094482927
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
