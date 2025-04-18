@@ -3,59 +3,73 @@ using UnityEngine;
 
 public class Room1Logic : MonoBehaviour
 {
-    public Transform playerSpawnPoint;
+    public List<string> correctSequence = new() { "North", "East", "South", "East" };
+    private List<string> playerSequence = new();
+    private bool sequenceLocked = false;
 
-    private List<string> correctSequence = new List<string> { "N", "E", "S", "E" };
-    private List<string> playerSequence = new List<string>();
+    public GameObject[] doorsToDisableColliders; // drag door gameObjects here
+    public Transform playerSpawnPoint;           // drag spawn point here
+    private GameObject player;
+
+    private void Start()
+    {
+        player = GameObject.FindWithTag("Player");
+    }
 
     public void DoorEntered(string direction)
     {
+        if (sequenceLocked) return;
+
         playerSequence.Add(direction);
-        if (!IsSequenceCorrectSoFar())
+
+        // Teleport back to center
+        player.transform.position = playerSpawnPoint.position;
+
+        if (playerSequence.Count >= 4)
         {
-            Debug.Log("Wrong path! Restarting...");
-            playerSequence.Clear();
-            TeleportToStart();
+            sequenceLocked = true;
+            DisableAllDoors();
         }
     }
 
-    private bool IsSequenceCorrectSoFar()
+    private void DisableAllDoors()
     {
-        if (playerSequence.Count > correctSequence.Count)
+        foreach (var door in doorsToDisableColliders)
+        {
+            Collider2D col = door.GetComponent<Collider2D>();
+            if (col != null)
+            {
+                col.isTrigger = false; // now door becomes solid
+            }
+        }
+    }
+
+
+    public void EvaluateSequence()
+    {
+        if (IsCorrectSequence())
+        {
+            Debug.Log("Correct Sequence! Moving to next room...");
+            GameManager.Instance.GoToNextRoom("Room2"); // Set your next scene name here
+        }
+        else
+        {
+            Debug.Log("Wrong sequence. Restarting...");
+            GameManager.Instance.OnPlayerDeath();
+        }
+    }
+
+    private bool IsCorrectSequence()
+    {
+        if (playerSequence.Count != correctSequence.Count)
             return false;
 
-        for (int i = 0; i < playerSequence.Count; i++)
+        for (int i = 0; i < correctSequence.Count; i++)
         {
             if (playerSequence[i] != correctSequence[i])
                 return false;
         }
 
         return true;
-    }
-
-    public void EvaluatePuzzle()
-    {
-        if (playerSequence.Count != correctSequence.Count)
-        {
-            GameManager.Instance.OnPlayerDeath();
-            return;
-        }
-
-        for (int i = 0; i < correctSequence.Count; i++)
-        {
-            if (playerSequence[i] != correctSequence[i])
-            {
-                GameManager.Instance.OnPlayerDeath();
-                return;
-            }
-        }
-
-        GameManager.Instance.GoToNextRoom("Room2"); // Set next room name
-    }
-
-    private void TeleportToStart()
-    {
-        GameObject player = GameObject.FindGameObjectWithTag("Player");
-        player.transform.position = playerSpawnPoint.position;
     }
 }
