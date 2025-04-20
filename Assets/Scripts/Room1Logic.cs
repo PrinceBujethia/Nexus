@@ -1,68 +1,40 @@
 using System.Collections.Generic;
+using UnityEditor.EditorTools;
 using UnityEngine;
 
 public class Room1Logic : MonoBehaviour
 {
-    public List<string> correctSequence = new() { "North", "East", "South", "East" };
-    private List<string> playerSequence = new();
-    private bool sequenceLocked = false;
-
-    public GameObject[] doorsToDisableColliders; // drag door gameObjects here
-    public Transform playerSpawnPoint;           // drag spawn point here
-    private GameObject player;
-
-    private void Start()
-    {
-        player = GameObject.FindWithTag("Player");
-    }
+    public List<string> correctSequence = new List<string> { "North", "East", "South", "East" };
+    public List<string> playerSequence = new List<string>();
+    private int maxMoves = 4;
 
     public void DoorEntered(string direction)
     {
-        if (sequenceLocked) return;
+        if (playerSequence.Count >= maxMoves) return;
 
         playerSequence.Add(direction);
 
-        // Teleport back to center
-        player.transform.position = playerSpawnPoint.position;
-
-        if (playerSequence.Count >= 4)
+        if (playerSequence.Count >= maxMoves)
         {
-            sequenceLocked = true;
-            DisableAllDoors();
+            DoorManager.Instance.DisableAllDoors(); // Optional visual/logic lock
         }
     }
 
-    private void DisableAllDoors()
+    public void EvaluatePuzzle()
     {
-        foreach (var door in doorsToDisableColliders)
+        if (IsSequenceCorrect())
         {
-            Collider2D col = door.GetComponent<Collider2D>();
-            if (col != null)
-            {
-                col.isTrigger = false; // now door becomes solid
-            }
-        }
-    }
-
-
-    public void EvaluateSequence()
-    {
-        if (IsCorrectSequence())
-        {
-            Debug.Log("Correct Sequence! Moving to next room...");
-            GameManager.Instance.GoToNextRoom("Room2"); // Set your next scene name here
+            GameManager.Instance.GoToNextRoom("Room2");
         }
         else
         {
-            Debug.Log("Wrong sequence. Restarting...");
             GameManager.Instance.OnPlayerDeath();
         }
     }
 
-    private bool IsCorrectSequence()
+    private bool IsSequenceCorrect()
     {
-        if (playerSequence.Count != correctSequence.Count)
-            return false;
+        if (playerSequence.Count != correctSequence.Count) return false;
 
         for (int i = 0; i < correctSequence.Count; i++)
         {
@@ -73,3 +45,4 @@ public class Room1Logic : MonoBehaviour
         return true;
     }
 }
+ 

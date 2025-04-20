@@ -2,13 +2,19 @@ using UnityEngine;
 
 public class DoorTrigger : MonoBehaviour
 {
-    public string doorDirection; // Set this in Inspector: "North", "South", etc.
+    public string direction; // "North", "South", etc.
+    public Transform spawnPoint; // Where player teleports back to
 
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
         {
-            FindFirstObjectByType<Room1Logic>()?.DoorEntered(doorDirection);
+            Room1Logic roomLogic = Object.FindFirstObjectByType<Room1Logic>();
+            if (roomLogic != null)
+            {
+                roomLogic.DoorEntered(direction);
+                other.transform.position = spawnPoint.position;
+            }
         }
     }
 }

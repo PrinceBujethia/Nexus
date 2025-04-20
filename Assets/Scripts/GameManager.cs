@@ -5,47 +5,92 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager Instance;
 
-    public float timerDuration = 120f;
+    [Header("Timer Settings")]
+    public float timerDuration = 120f; // 2 minutes
     private float timer;
+    private bool timerRunning = true;
 
     private void Awake()
     {
-        if (Instance == null) Instance = this;
+        if (Instance == null)
+        {
+            Instance = this;
+            DontDestroyOnLoad(this.gameObject); // Optional if you want persistence
+        }
+        else
+        {
+            Destroy(this.gameObject);
+        }
     }
 
-    private void Start()
+    void Start()
     {
-        timer = timerDuration;
+        ResetTimer();
     }
 
-    private void Update()
+    void Update()
     {
+        if (!timerRunning) return;
+
         timer -= Time.deltaTime;
         if (timer <= 0f)
         {
-            EvaluateRoom();
+            timerRunning = false;
+            EvaluateCurrentRoom();
         }
     }
 
     public void ResetTimer()
     {
         timer = timerDuration;
+        timerRunning = true;
     }
 
-    public void EvaluateRoom()
+    public void StopTimer()
     {
-        // Using new API
-        FindFirstObjectByType<Room1Logic>()?.EvaluateSequence();
+        timerRunning = false;
+    }
+
+    public void EvaluateCurrentRoom()
+    {
+        string scene = SceneManager.GetActiveScene().name;
+
+        switch (scene)
+        {
+            case "Room1":
+                var r1 = FindFirstObjectByType<Room1Logic>();
+                if (r1 != null) r1.EvaluatePuzzle();
+                break;
+            case "Room2":
+                var r2 = FindFirstObjectByType<Room2Logic>();
+                if (r2 != null) r2.EvaluatePuzzle();
+                break;
+            //case "Room3":
+            //    var r3 = FindFirstObjectByType<Room3Logic>();
+            //    if (r3 != null) r3.EvaluatePuzzle();
+            //    break;
+            //case "Room4":
+            //    var r4 = FindFirstObjectByType<Room4Logic>();
+            //    if (r4 != null) r4.EvaluatePuzzle();
+            //    break;
+            //case "Room5":
+            //    var r5 = FindFirstObjectByType<Room5Logic>();
+            //    if (r5 != null) r5.EvaluatePuzzle();
+            //    break;
+            default:
+                Debug.LogWarning("Unknown scene: " + scene);
+                break;
+        }
+    }
+
+    public void GoToNextRoom(string nextSceneName)
+    {
+        SceneManager.LoadScene(nextSceneName);
     }
 
     public void OnPlayerDeath()
     {
         Debug.Log("You failed. Try again.");
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-    }
-
-    public void GoToNextRoom(string sceneName)
-    {
-        SceneManager.LoadScene(sceneName);
     }
 }
